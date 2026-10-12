@@ -7,8 +7,6 @@ Mi objetivo a corto plazo es alcanzar un nivel **Junior sólido**, construir un 
 
 A largo plazo quiero desarrollar tecnología que conecte **software, hardware, sistemas embebidos, robótica, redes e inteligencia artificial**.
 
-> **“Si no existe, lo crearemos.”**
-
 ---
 
 ## 🚀 En qué estoy trabajando ahora
