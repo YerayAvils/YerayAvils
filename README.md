@@ -1,4 +1,4 @@
-# 👋 Hola, soy Yeray Avilés
+# Hola, soy Yeray Avilés
 
 ### C++ Developer in training | Linux | Systems | Building toward freelance
 
