@@ -105,7 +105,7 @@ El objetivo no es solamente aprender tecnología, sino desarrollar la capacidad 
 
 - [x] Completar fundamentos de C++
 - [x] Aprender línea de comandos
-- [ ] Dominar Git y GitHub
+- [x] Dominar Git y GitHub
 - [ ] Profundizar en C++ moderno
 - [ ] Crear 3+ proyectos sólidos de portafolio
 - [ ] Aprender CMake, debugging y testing
