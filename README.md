@@ -138,14 +138,6 @@ Desarrollar las capacidades necesarias para diseñar e integrar sistemas complej
 
 ---
 
-## 📊 Actividad en GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YerayAvils&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YerayAvils&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 📫 Contacto
 
 Puedes explorar mis proyectos y seguir mi progreso en:
